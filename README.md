@@ -23,6 +23,8 @@
 ### ⚙️ &nbsp;`whoami`
 
 > A data science student who wandered into AI,
+> then into full-stack, and now into mobile —
+> because apparently one language wasn't enough.
 
 
 </td>
@@ -121,5 +123,3 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=still%20learning%2C%20still%20building&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" />
-> then into full-stack, and now into mobile —
-> because apparently one language wasn't enough.
