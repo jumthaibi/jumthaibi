@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=071a2f&secondaryColor=17385b&height=245&section=header&text=JUMANA%20THAIBI&font=Press%20Start%202P&fontSize=28&fontColor=f9edcc&fontAlignY=36&desc=DATA%20SCIENCE%20%20%2F%2F%20%20AI%20%20%2F%2F%20%20SOFTWARE&descAlignY=61&descSize=14&descColor=f1c86b">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=245&section=header&text=JUMANA%20THAIBI&font=Press%20Start%202P&fontSize=28&fontColor=fff8e8&fontAlignY=36&desc=DATA%20SCIENCE%20%20%2F%2F%20%20AI%20%20%2F%2F%20%20SOFTWARE&descAlignY=61&descSize=14&descColor=f9d878">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=245&section=header&text=JUMANA%20THAIBI&font=Press%20Start%202P&fontSize=28&fontColor=fff8e8&fontAlignY=36&desc=DATA%20SCIENCE%20%20%2F%2F%20%20AI%20%20%2F%2F%20%20SOFTWARE&descAlignY=61&descSize=14&descColor=f9d878" width="100%" alt="Jumana AL-Thaibi — Data Science, AI, and Software">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=245&section=header&text=JUMANA%20AL-THAIBI&font=Press%20Start%202P&fontSize=28&fontColor=fff8e8&fontAlignY=36&desc=DATA%20SCIENCE%20%20%2F%2F%20%20AI%20%20%2F%2F%20%20SOFTWARE&descAlignY=61&descSize=14&descColor=f9d878" width="100%" alt="Jumana AL-Thaibi — Data Science, AI, and Software">
 </picture>
 
 <a href="https://github.com/jumthaibi">
