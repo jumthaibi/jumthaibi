@@ -1,65 +1,152 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=8b4a6b&secondaryColor=66528f&height=235&section=header&text=Jumana&font=Lobster%20Two&fontSize=72&fontColor=fff8fc&fontAlignY=38&desc=DATA%20SCIENCE%20%20%E2%80%A2%20%20AI%20%20%E2%80%A2%20%20SOFTWARE%20DEVELOPMENT&descAlignY=63&descSize=14&descColor=fff0f7">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&secondaryColor=cab7e9&height=235&section=header&text=Jumana&font=Lobster%20Two&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=DATA%20SCIENCE%20%20%E2%80%A2%20%20AI%20%20%E2%80%A2%20%20SOFTWARE%20DEVELOPMENT&descAlignY=63&descSize=14&descColor=ffffff">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&secondaryColor=cab7e9&height=235&section=header&text=Jumana&font=Lobster%20Two&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=DATA%20SCIENCE%20%20%E2%80%A2%20%20AI%20%20%E2%80%A2%20%20SOFTWARE%20DEVELOPMENT&descAlignY=63&descSize=14&descColor=ffffff" width="100%" alt="Jumana — Data Science, AI, and Software Development">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=071a2f&secondaryColor=17385b&height=245&section=header&text=JUMANA%20THAIBI&font=Press%20Start%202P&fontSize=28&fontColor=f9edcc&fontAlignY=36&desc=DATA%20SCIENCE%20%20%2F%2F%20%20AI%20%20%2F%2F%20%20SOFTWARE&descAlignY=61&descSize=14&descColor=f1c86b">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=245&section=header&text=JUMANA%20THAIBI&font=Press%20Start%202P&fontSize=28&fontColor=fff8e8&fontAlignY=36&desc=DATA%20SCIENCE%20%20%2F%2F%20%20AI%20%20%2F%2F%20%20SOFTWARE&descAlignY=61&descSize=14&descColor=f9d878">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=245&section=header&text=JUMANA%20THAIBI&font=Press%20Start%202P&fontSize=28&fontColor=fff8e8&fontAlignY=36&desc=DATA%20SCIENCE%20%20%2F%2F%20%20AI%20%20%2F%2F%20%20SOFTWARE&descAlignY=61&descSize=14&descColor=f9d878" width="100%" alt="Jumana Thaibi — Data Science, AI, and Software">
 </picture>
 
 <br>
 
-<font color="#d85c9a" size="5">✿ &nbsp; ♡ &nbsp; ✦ &nbsp; 🦋 &nbsp; ✦ &nbsp; ♡ &nbsp; ✿</font>
+<table align="center" border="0">
+<tr>
+<td align="center">
 
-<h2><font color="#b84f83">Hello, I'm Jumana</font></h2>
+<font color="#f1c86b">●</font>&nbsp;&nbsp;
+<font color="#d6e6f5">●</font>&nbsp;&nbsp;
+<font color="#8fc6a5">●</font>
 
-<p>
-  <i>Data Science student · AI learner · software builder</i>
-</p>
+<br>
 
-<p>
-  <a href="https://github.com/jumthaibi">
-    <img src="https://img.shields.io/badge/GitHub-jumthaibi-d85c9a?style=for-the-badge&logo=github&logoColor=white&labelColor=b84f83" alt="GitHub @jumthaibi">
-  </a>
-</p>
+<font color="#17385b"><b>WELCOME TO MY PROFILE</b></font>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/jumthaibi">
+  <img src="https://img.shields.io/badge/GITHUB-jumthaibi-071a2f?style=for-the-badge&logo=github&logoColor=f9edcc&labelColor=17385b" alt="GitHub @jumthaibi">
+</a>
+
+<br><br>
+
+<font color="#d39b28" size="5">✦ &nbsp; ✦ &nbsp; ✦</font>
 
 </div>
+
+<br>
+
+<table align="center" width="92%" border="0" bgcolor="071a2f">
+<tr>
+<td>
+
+<table width="100%" border="0">
+<tr>
+<td>
+<font color="#f1c86b"><b>● ● ●</b></font>
+</td>
+<td align="right">
+<font color="#d6e6f5">ABOUT_ME.EXE</font>
+</td>
+</tr>
+</table>
+
+<hr>
+
+<font color="#f9edcc" size="5"><b>HELLO, I'M JUMANA</b></font>
+
+<br><br>
+
+<font color="#d6e6f5">
+I am a <b>Data Science student</b> who had to study AI as part of my degree. Along the way, I trained machine learning models, worked with data, built websites, and kept expanding into software development.
+</font>
+
+<br><br>
+
+<font color="#f1c86b"><b>DATA SCIENCE STUDENT // AI LEARNER // SOFTWARE BUILDER</b></font>
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <table align="center" width="92%" border="0">
 <tr>
-<td align="center" bgcolor="fff0f7" width="50%">
+<td valign="top" width="50%" bgcolor="f7f2df">
 
-<br>
+<font color="#17385b" size="5"><b>MY STUDIES</b></font>
 
-<h2><font color="c34f87">about me</font></h2>
+<br><br>
 
-<p align="left">
-  I am a <b>Data Science student</b> with a growing foundation in artificial intelligence, data, and software development.
-</p>
+<font color="#17385b">
+My main area is <b>data science</b>. I studied:
+</font>
 
-<p align="left">
-  During my degree, I have studied AI and trained machine learning models as part of my work in data science. I enjoy understanding how things work and then turning that knowledge into something useful.
-</p>
+<br><br>
 
-<br>
+<font color="#31638d">
+▸ Python and R for data analysis<br>
+▸ Data engineering concepts and workflows<br>
+▸ Machine learning engineering<br>
+▸ AI and model training<br>
+▸ Basic programming with C++ and C#
+</font>
+
+<br><br>
+
+<font color="#d39b28">[ DATA + AI + MACHINE LEARNING ]</font>
 
 </td>
-<td align="center" bgcolor="f1eaff" width="50%">
+<td valign="top" width="50%" bgcolor="e8eff7">
+
+<font color="#17385b" size="5"><b>WHAT I BUILD</b></font>
+
+<br><br>
+
+<font color="#17385b">
+I have made many front-end and full-stack websites using:
+</font>
+
+<br><br>
+
+<font color="#31638d">
+▸ HTML, CSS, and JavaScript<br>
+▸ PHP for full-stack web development<br>
+▸ MySQL and database-backed applications<br>
+▸ C# and .NET concepts<br>
+▸ Clear, practical user interfaces
+</font>
+
+<br><br>
+
+<font color="#d39b28">[ WEB + FULL-STACK DEVELOPMENT ]</font>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<h2><font color="8263b4">what I do</font></h2>
+<table align="center" width="92%" border="0" bgcolor="17385b">
+<tr>
+<td>
 
-<p align="left">
-  ✿ Analyze and prepare data<br>
-  ✿ Work with data engineering concepts<br>
-  ✿ Train and refine machine learning models<br>
-  ✿ Build front-end and full-stack websites<br>
-  ✿ Explore mobile and backend development
-</p>
+<font color="#f1c86b" size="5"><b>CURRENTLY LOADING...</b></font>
 
+<br><br>
+
+<font color="#f9edcc">
+<b>Dart</b> is done. Now I am learning <b>Flutter</b> for mobile development.
 <br>
+I am also learning <b>ASP.NET</b> because it is part of my university curriculum.
+</font>
+
+<br><br>
+
+<font color="#d6e6f5">[ ##############------ ] 70%</font>
 
 </td>
 </tr>
@@ -69,65 +156,13 @@
 
 <div align="center">
 
-<font color="#b84f83" size="5">✧ &nbsp; my path so far &nbsp; ✧</font>
+<font color="#17385b" size="5"><b>MY TOOLKIT</b></font>
 
 <br><br>
 
-<table align="center" width="90%" border="0">
-<tr>
-<td valign="top" width="50%" bgcolor="fff8fb">
+<font color="#31638d"><b>DATA & AI</b></font>
 
-<h3><font color="d85c9a">data · AI · machine learning</font></h3>
-
-I studied **Python** and **R** for:
-
-- Data analysis
-- Data engineering
-- Machine learning engineering
-- Training AI and machine learning models
-
-</td>
-<td valign="top" width="50%" bgcolor="faf7ff">
-
-<h3><font color="8263b4">programming · web · software</font></h3>
-
-I studied the fundamentals of **C++**, **C#**, and **JavaScript**, and have built many:
-
-- Front-end websites
-- Full-stack websites with **PHP**
-- Database-backed web applications
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%" bgcolor="fff8fb">
-
-<h3><font color="d85c9a">currently learning</font></h3>
-
-I have finished learning **Dart** and am now learning **Flutter** to build mobile applications.
-
-</td>
-<td valign="top" width="50%" bgcolor="faf7ff">
-
-<h3><font color="8263b4">university curriculum</font></h3>
-
-I am also learning **ASP.NET** as part of my university studies, expanding my experience with backend and full-stack development.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<font color="#b84f83" size="5">✿ &nbsp; my toolkit &nbsp; ✿</font>
-
-<br><br>
-
-<h3><font color="#d85c9a">data & artificial intelligence</font></h3>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn&theme=dark">
@@ -137,7 +172,9 @@ I am also learning **ASP.NET** as part of my university studies, expanding my ex
 
 <br><br>
 
-<h3><font color="#8263b4">web & programming</font></h3>
+<font color="#31638d"><b>PROGRAMMING & WEB</b></font>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,cs,js,php,html,css,mysql&theme=dark">
@@ -147,7 +184,9 @@ I am also learning **ASP.NET** as part of my university studies, expanding my ex
 
 <br><br>
 
-<h3><font color="#d85c9a">mobile & backend</font></h3>
+<font color="#31638d"><b>MOBILE & BACKEND</b></font>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart,flutter,dotnet,postgres,sqlite&theme=dark">
@@ -161,48 +200,60 @@ I am also learning **ASP.NET** as part of my university studies, expanding my ex
 
 <div align="center">
 
-<font color="#b84f83" size="5">♡ &nbsp; a little activity &nbsp; ♡</font>
+<font color="#17385b" size="5"><b>GITHUB ACTIVITY</b></font>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jumthaibi&show_icons=true&hide_border=true&theme=dark&bg_color=2c2030&title_color=ffb6d9&icon_color=e5a8c8&text_color=fff0f7&include_all_commits=true&border_radius=15">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jumthaibi&show_icons=true&hide_border=true&theme=default&bg_color=fff0f7&title_color=b84f83&icon_color=d85c9a&text_color=86566d&include_all_commits=true&border_radius=15">
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jumthaibi&show_icons=true&hide_border=true&theme=default&bg_color=fff0f7&title_color=b84f83&icon_color=d85c9a&text_color=86566d&include_all_commits=true&border_radius=15" alt="Jumana's GitHub statistics">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jumthaibi&show_icons=true&hide_border=true&theme=dark&bg_color=071a2f&title_color=f1c86b&icon_color=8fc6a5&text_color=d6e6f5&include_all_commits=true&border_radius=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jumthaibi&show_icons=true&hide_border=true&theme=default&bg_color=f7f2df&title_color=17385b&icon_color=d39b28&text_color=31638d&include_all_commits=true&border_radius=8">
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jumthaibi&show_icons=true&hide_border=true&theme=default&bg_color=f7f2df&title_color=17385b&icon_color=d39b28&text_color=31638d&include_all_commits=true&border_radius=8" alt="Jumana's GitHub statistics">
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jumthaibi&layout=compact&hide_border=true&theme=dark&bg_color=2c2030&title_color=ffb6d9&text_color=fff0f7&langs_count=7&border_radius=15">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jumthaibi&layout=compact&hide_border=true&theme=default&bg_color=fff0f7&title_color=b84f83&text_color=86566d&langs_count=7&border_radius=15">
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jumthaibi&layout=compact&hide_border=true&theme=default&bg_color=fff0f7&title_color=b84f83&text_color=86566d&langs_count=7&border_radius=15" alt="Jumana's most used languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jumthaibi&layout=compact&hide_border=true&theme=dark&bg_color=071a2f&title_color=f1c86b&text_color=d6e6f5&langs_count=7&border_radius=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jumthaibi&layout=compact&hide_border=true&theme=default&bg_color=f7f2df&title_color=17385b&text_color=31638d&langs_count=7&border_radius=8">
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jumthaibi&layout=compact&hide_border=true&theme=default&bg_color=f7f2df&title_color=17385b&text_color=31638d&langs_count=7&border_radius=8" alt="Jumana's most used languages">
 </picture>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=jumthaibi&bg_color=2c2030&color=fff0f7&line=ffb6d9&point=ffffff&area=true&hide_border=true&radius=15">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=jumthaibi&bg_color=fff0f7&color=86566d&line=d85c9a&point=b84f83&area=true&hide_border=true&radius=15">
-  <img width="90%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=jumthaibi&bg_color=fff0f7&color=86566d&line=d85c9a&point=b84f83&area=true&hide_border=true&radius=15" alt="Jumana's GitHub contribution activity">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=jumthaibi&bg_color=071a2f&color=d6e6f5&line=f1c86b&point=ffffff&area=true&hide_border=true&radius=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=jumthaibi&bg_color=f7f2df&color=31638d&line=d39b28&point=17385b&area=true&hide_border=true&radius=8">
+  <img width="90%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=jumthaibi&bg_color=f7f2df&color=31638d&line=d39b28&point=17385b&area=true&hide_border=true&radius=8" alt="Jumana's GitHub contribution activity">
 </picture>
 
 </div>
 
 <br><br>
 
+<table align="center" width="92%" border="0" bgcolor="f7f2df">
+<tr>
+<td align="center">
+
+<font color="#17385b" size="5"><b>THANKS FOR VISITING</b></font>
+
+<br><br>
+
+<font color="#31638d">learning data science · training models · building software</font>
+
+<br><br>
+
+<font color="#d39b28" size="5">✦ &nbsp; ✦ &nbsp; ✦</font>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
-<font color="#d85c9a" size="5">✿ &nbsp; 🦋 &nbsp; ✿ &nbsp; 🦋 &nbsp; ✿</font>
-
-<br><br>
-
-<i><font color="#b84f83">learning, building, and growing one project at a time</font></i>
-
-<br><br>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=8b4a6b&secondaryColor=66528f&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&secondaryColor=cab7e9&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&secondaryColor=cab7e9&height=120&section=footer" width="100%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=071a2f&secondaryColor=17385b&height=115&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=115&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=115&section=footer" width="100%" alt="">
 </picture>
 
 </div>
