@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Jumana&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Student%20%C2%B7%20AI%20%C2%B7%20Full-Stack%20Curious&descAlignY=58&descSize=18&descAlign=50" width="100%" />
 
 <a href="https://github.com/jumthaibi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=F59E0B&center=true&vCenter=true&width=620&height=45&lines=%3E+studying+data+science+%26+AI;%3E+training+models%2C+cleaning+data%2C+breaking+things;%3E+learning+flutter+%26+asp.net+because+university+said+so;%3E+still+figuring+it+out+%E2%80%94+and+that's+fine" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=F59E0B&center=true&vCenter=true&width=620&height=45&lines=%3E+studying+data+science+%26+AI;%3E+training+models%2C+cleaning+data%2C+breaking+things;%3E+learning+flutter+%26+asp.net;%3E+still+figuring+it+out+%E2%80%94+and+that's+fine" alt="Typing" />
 </a>
 
 <br/><br/>
@@ -23,8 +23,7 @@
 ### ⚙️ &nbsp;`whoami`
 
 > A data science student who wandered into AI,
-> then into full-stack, and now into mobile —
-> because apparently one language wasn't enough.
+
 
 </td>
 <td valign="top" width="50%">
@@ -34,7 +33,7 @@
 - 🎓 Studying **Data Science & AI**
 - 🤖 Training **ML models** as a DS student
 - 📱 Learning **Flutter** (Dart ✅ → Flutter 🔄)
-- 🌐 Learning **ASP.NET** *(mandatory, send help)*
+- 🌐 Learning **ASP.NET**
 - ☕ Powered by coffee and deadlines
 
 </td>
@@ -102,9 +101,8 @@
 
 > *"Started with Python and R for data analysis.
 > Then trained models. Then built websites with PHP.
-> Then learned C++ and C# in uni.
-> Now Dart is done and Flutter is next.
-> ASP.NET is waiting. Send snacks."*
+> Then learned C++ and C#. Now Dart is done and Flutter is next.
+> ASP.NET is on the list too."*
 
 </div>
 
@@ -123,3 +121,5 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=still%20learning%2C%20still%20building&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" />
+> then into full-stack, and now into mobile —
+> because apparently one language wasn't enough.
