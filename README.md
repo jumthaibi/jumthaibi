@@ -6,15 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&pause=2000&color=e75480&center=true&vCenter=true&width=650&height=50&lines=studying+data+science+%26+AI+%E2%9C%A7;training+models+%26+refining+data+%F0%9F%8C%B8;learning+flutter+%26+asp.net+%E2%9C%A8;quietly+building+something+worth+shipping+%F0%9F%8E%80" alt="Typing" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%8C%B8%20STUDENT-always%20learning-ffb6d9?style=for-the-badge&labelColor=f8b7d4&color=ffb6d9" />
-<img src="https://img.shields.io/badge/%E2%9C%A8%20FOCUS-data%20science%20%26%20AI-e6b8f0?style=for-the-badge&labelColor=e6b8f0&color=d9a8e8" />
-<img src="https://img.shields.io/badge/%F0%9F%A6%8B%20MODE-quietly%20curious-ffc9de?style=for-the-badge&labelColor=ffc9de&color=ffb6d9" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%B8%20STUDENT-always%20learning-ffb6d9?style=for-the-badge&labelColor=e75480" />
+<img src="https://img.shields.io/badge/%E2%9C%A8%20FOCUS-data%20science%20%26%20AI-e6b8f0?style=for-the-badge&labelColor=b57edc" />
+<img src="https://img.shields.io/badge/%F0%9F%A6%8B%20MODE-quietly%20curious-ffc9de?style=for-the-badge&labelColor=e75480" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hr.svg" width="60%" />
+<font color="b57edc" size="5">🌸 &nbsp; 🦋 &nbsp; ✨ &nbsp; 🌸 &nbsp; 🦋 &nbsp; ✨ &nbsp; 🌸</font>
 
 <br/>
 
@@ -23,9 +23,9 @@ a data science student who wandered into AI,<br/>
 then into full-stack, and now into mobile ✧
 </font></i>
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hr.svg" width="60%" />
+<font color="b57edc" size="5">🌸 &nbsp; 🦋 &nbsp; ✨ &nbsp; 🌸 &nbsp; 🦋 &nbsp; ✨ &nbsp; 🌸</font>
 
 </div>
 
@@ -45,6 +45,7 @@ then into full-stack, and now into mobile ✧
 &nbsp;&nbsp;&nbsp;builder by quiet habit ✧</font></i>
 
 <br/><br/>
+
 
 <br/>
 
@@ -73,7 +74,7 @@ then into full-stack, and now into mobile ✧
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hr.svg" width="60%" />
+<font color="e75480" size="5">✧ &nbsp; 🌸 &nbsp; ✧ &nbsp; 🦋 &nbsp; ✧ &nbsp; 🌸 &nbsp; ✧</font>
 
 <br/>
 
@@ -104,15 +105,15 @@ then into full-stack, and now into mobile ✧
 <h3><font color="b57edc">✨ &nbsp; presently learning &nbsp; ✨</font></h3>
 <img src="https://skillicons.dev/icons?i=flutter,dart,dotnet&theme=light" />
 
+<br/>
+
+<font color="e75480" size="5">✧ &nbsp; 🌸 &nbsp; ✧ &nbsp; 🦋 &nbsp; ✧ &nbsp; 🌸 &nbsp; ✧</font>
+
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hr.svg" width="60%" />
-
-<br/>
 
 <h2><font color="e75480">✧ &nbsp; T H E &nbsp; N U M B E R S &nbsp; ✧</font></h2>
 
@@ -132,7 +133,7 @@ then into full-stack, and now into mobile ✧
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hr.svg" width="60%" />
+<font color="e75480" size="5">✧ &nbsp; 🌸 &nbsp; ✧ &nbsp; 🦋 &nbsp; ✧ &nbsp; 🌸 &nbsp; ✧</font>
 
 <br/>
 
@@ -148,15 +149,15 @@ Now Dart is done, Flutter is next 🦋<br/>
 ASP.NET is on the list too ✨
 </font></i>
 
+<br/>
+
+<font color="e75480" size="5">✧ &nbsp; 🌸 &nbsp; ✧ &nbsp; 🦋 &nbsp; ✧ &nbsp; 🌸 &nbsp; ✧</font>
+
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hr.svg" width="60%" />
-
-<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
