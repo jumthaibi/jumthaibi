@@ -6,26 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=245&section=header&text=JUMANA%20THAIBI&font=Press%20Start%202P&fontSize=28&fontColor=fff8e8&fontAlignY=36&desc=DATA%20SCIENCE%20%20%2F%2F%20%20AI%20%20%2F%2F%20%20SOFTWARE&descAlignY=61&descSize=14&descColor=f9d878" width="100%" alt="Jumana Thaibi — Data Science, AI, and Software">
 </picture>
 
-<br>
-
-<table align="center" border="0">
-<tr>
-<td align="center">
-
-<font color="#f1c86b">●</font>&nbsp;&nbsp;
-<font color="#d6e6f5">●</font>&nbsp;&nbsp;
-<font color="#8fc6a5">●</font>
-
-<br>
-
-<font color="#17385b"><b>WELCOME TO MY PROFILE</b></font>
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <a href="https://github.com/jumthaibi">
   <img src="https://img.shields.io/badge/GITHUB-jumthaibi-071a2f?style=for-the-badge&logo=github&logoColor=f9edcc&labelColor=17385b" alt="GitHub @jumthaibi">
 </a>
@@ -35,6 +15,48 @@
 <font color="#d39b28" size="5">✦ &nbsp; ✦ &nbsp; ✦</font>
 
 </div>
+
+<br>
+
+<table align="center" width="92%" border="0" bgcolor="071a2f">
+<tr>
+<td width="38%" align="center" valign="middle">
+
+<img src="./generated_images/jumana-avatar-hijab.png" width="230" alt="Original chibi illustration of Jumana wearing an olive-green hijab">
+
+</td>
+<td width="62%" valign="middle">
+
+<table width="100%" border="0">
+<tr>
+<td>
+<font color="#f1c86b"><b>● ● ●</b></font>
+</td>
+<td align="right">
+<font color="#d6e6f5">JUMANA.EXE</font>
+</td>
+</tr>
+</table>
+
+<hr>
+
+<font color="#f9edcc" size="5"><b>WELCOME TO MY PROFILE</b></font>
+
+<br><br>
+
+<font color="#d6e6f5">
+Data Science student, AI learner, and software builder.
+I like turning data, models, and ideas into something people can actually use.
+</font>
+
+<br><br>
+
+<font color="#f1c86b"><b>STATUS:</b></font>
+<font color="#8fc6a5"> curious · learning · building</font>
+
+</td>
+</tr>
+</table>
 
 <br>
 
