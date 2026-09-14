@@ -1,3 +1,30 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Jumana&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Student%20%C2%B7%20AI%20%C2%B7%20Full-Stack%20Curious&descAlignY=58&descSize=18&descAlign=50" width="100%" />
+
+<a href="https://github.com/jumthaibi">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=F59E0B&center=true&vCenter=true&width=620&height=45&lines=%3E+studying+data+science+%26+AI;%3E+training+models%2C+cleaning+data%2C+breaking+things;%3E+learning+flutter+%26+asp.net+because+university+said+so;%3E+still+figuring+it+out+%E2%80%94+and+that's+fine" alt="Typing" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-STUDENT%20%C2%B7%20ALWAYS%20LEARNING-F59E0B?style=for-the-badge&labelColor=1e293b" />
+<img src="https://img.shields.io/badge/FOCUS-DATA%20SCIENCE%20%26%20AI-0ea5e9?style=for-the-badge&labelColor=1e293b" />
+<img src="https://img.shields.io/badge/MODE-CURIOUS-64748b?style=for-the-badge&labelColor=1e293b" />
+
+</div>
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td valign="top" width="50%">
+
+### ⚙️ &nbsp;`whoami`
+
+> A data science student who wandered into AI,
+> then into full-stack, and now into mobile —
+> because apparently one language wasn't enough.
 
 </td>
 <td valign="top" width="50%">
