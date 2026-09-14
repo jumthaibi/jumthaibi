@@ -22,7 +22,7 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="jumana-avatar-hijab2.png" width="230" alt="Original chibi illustration of Jumana wearing an olive-green hijab">
+<img src="jumana-avatar-hijab.png" width="230" alt="Original chibi illustration of Jumana wearing an olive-green hijab">
 
 </td>
 <td width="62%" valign="middle">
