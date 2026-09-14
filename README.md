@@ -1,62 +1,27 @@
-<p align="center">
+<div align="center">
 
-  <a href="https://github.com/jumthaibi">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Jumana&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descAlign=50" width="100%" />
 
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Jumana" alt="Hello! I&#39;m Jumana" />
+<a href="https://github.com/jumthaibi">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=F59E0B&center=true&vCenter=true&width=600&height=45&lines=%3E+building+pipelines+that+think;%3E+shipping+interfaces+that+feel;%3E+data+in.+clarity+out." alt="Terminal typing" />
+</a>
 
-  </a>
+<br/><br/>
 
-</p>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-F59E0B?style=for-the-badge&labelColor=1e293b" />
+<img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20PRODUCT-0ea5e9?style=for-the-badge&labelColor=1e293b" />
+<img src="https://img.shields.io/badge/LOCATION-REMOTE-64748b?style=for-the-badge&labelColor=1e293b" />
 
+</div>
 
+<br/>
 
-<p align="center">
+<table align="center" border="0">
+<tr>
+<td valign="top" width="50%">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=580&height=44&lines=Data%20Engineer%20%26%20Full%20stack%20developer" alt="Typing headlines" />
+### ⚙️ &nbsp;`whoami`
 
-</p>
-
-
-
-### 📊 GitHub Stats
-
-
-
-<p align="center">
-
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jumthaibi&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jumthaibi&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-
-</p>
-
-
-
-### 📈 Contribution Graph
-
-
-
-<p align="center">
-
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=jumthaibi&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-
-</p>
-
-
-
-### 💭 Dev Quote
-
-
-
-<p align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-
-</p>
-
-
-
----
-
-<p align="center"><i>⭐️ From <a href="https://github.com/jumthaibi">jumthaibi</a></i></p>
-
+> Data engineer by trade, full-stack dev by instinct.
+> I build the systems that move data — and the
+> interfaces that make it make sense.
