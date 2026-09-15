@@ -178,50 +178,6 @@ I am also learning <b>ASP.NET</b> because it is part of my university curriculum
 
 <div align="center">
 
-<font color="#17385b" size="5"><b>MY TOOLKIT</b></font>
-
-<br><br>
-
-<font color="#31638d"><b>DATA & AI</b></font>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn&theme=light" alt="Python, R, TensorFlow, PyTorch, and scikit-learn">
-</picture>
-
-<br><br>
-
-<font color="#31638d"><b>PROGRAMMING & WEB</b></font>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,cs,js,php,html,css,mysql&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,cs,js,php,html,css,mysql&theme=light">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,php,html,css,mysql&theme=light" alt="C++, C#, JavaScript, PHP, HTML, CSS, and MySQL">
-</picture>
-
-<br><br>
-
-<font color="#31638d"><b>MOBILE & BACKEND</b></font>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart,flutter,dotnet,postgres,sqlite&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dart,flutter,dotnet,postgres,sqlite&theme=light">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,dotnet,postgres,sqlite&theme=light" alt="Dart, Flutter, .NET, PostgreSQL, and SQLite">
-</picture>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
 <font color="#17385b" size="5"><b>GITHUB ACTIVITY</b></font>
 
 <br><br>
