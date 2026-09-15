@@ -191,7 +191,6 @@ I am also learning <b>ASP.NET</b> because it is part of my university curriculum
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jumthaibi&layout=compact&hide_border=true&theme=dark&bg_color=071a2f&title_color=f1c86b&text_color=d6e6f5&langs_count=7&border_radius=8">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/? username=jumthaibi&layout=compact&hide_border=true&theme=default&bg_color=f7f2df&title_color=17385b&text_color=31638d&langs_count=7&border_radius=8">
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jumthaibi&layout=compact&hide_border=true&theme=default&bg_color=f7f2df&title_color=17385b&text_color=31638d&langs_count=7&border_radius=8" alt="Jumana's most used languages">
 </picture>
 
 <br><br>
