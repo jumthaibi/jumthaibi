@@ -1,187 +1,77 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=071a2f&secondaryColor=17385b&height=245&section=header&text=JUMANA%20THAIBI&font=Press%20Start%202P&fontSize=28&fontColor=f9edcc&fontAlignY=36&desc=DATA%20SCIENCE%20%20%2F%2F%20%20AI%20%20%2F%2F%20%20SOFTWARE&descAlignY=61&descSize=14&descColor=f1c86b">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=245&section=header&text=JUMANA%20THAIBI&font=Press%20Start%202P&fontSize=28&fontColor=fff8e8&fontAlignY=36&desc=DATA%20SCIENCE%20%20%2F%2F%20%20AI%20%20%2F%2F%20%20SOFTWARE&descAlignY=61&descSize=14&descColor=f9d878">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=245&section=header&text=JUMANA%20AL-THAIBI&font=Press%20Start%202P&fontSize=28&fontColor=fff8e8&fontAlignY=36&desc=DATA%20SCIENCE%20%20%2F%2F%20%20AI%20%20%2F%2F%20%20SOFTWARE&descAlignY=61&descSize=14&descColor=f9d878" width="100%" alt="Jumana AL-Thaibi — Data Science, AI, and Software">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:17385b,100:31638d&height=180&section=header&text=Jumana%20Al-Thaibi&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20%7C%20AI%20%7C%20Software%20Development&descAlignY=60&descSize=16&descColor=d6e6f5">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17385b,100:31638d&height=180&section=header&text=Jumana%20Al-Thaibi&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20%7C%20AI%20%7C%20Software%20Development&descAlignY=60&descSize=16&descColor=d6e6f5" width="100%" alt="Jumana Al-Thaibi">
 </picture>
 
 <a href="https://github.com/jumthaibi">
-  <img src="https://img.shields.io/badge/GITHUB-jumthaibi-071a2f?style=for-the-badge&logo=github&logoColor=f9edcc&labelColor=17385b" alt="GitHub @jumthaibi">
+  <img src="https://img.shields.io/badge/GitHub-jumthaibi-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <br><br>
 
-<font color="#d39b28" size="5">✦ &nbsp; ✦ &nbsp; ✦</font>
+<a href="https://github.com/jumthaibi">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+data+and+AI;Training+ML+models;Full-stack+web+development;Learning+Flutter+%26+ASP.NET&font=Fira+Code&center=true&width=520&height=40&color=31638d&vCenter=true&size=18" alt="Typing SVG">
+</a>
 
 </div>
 
-<br>
+---
 
-<table align="center" width="92%" border="0" bgcolor="071a2f">
-<tr>
-<td width="38%" align="center" valign="middle">
+## About Me
 
-<img src="jumana-avatar-hijab.png" width="230" alt="Original chibi illustration of Jumana wearing an olive-green hijab">
+I'm a Data Science student who works across the full stack of a data-driven idea — from training models to building the interfaces people actually use.
 
-</td>
-<td width="62%" valign="middle">
+My work spans machine learning, data analysis, and full-stack web development, with a growing focus on mobile development.
 
-<table width="100%" border="0">
-<tr>
-<td>
-<font color="#f1c86b"><b>● ● ●</b></font>
-</td>
-<td align="right">
-<font color="#d6e6f5">JUMANA.EXE</font>
-</td>
-</tr>
-</table>
+---
 
-<hr>
+## Areas of Focus
 
-<font color="#f9edcc" size="5"><b>WELCOME TO MY PROFILE</b></font>
+**Data Science & AI**
 
-<br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-<font color="#d6e6f5">
-Data Science student, AI learner, and software builder.
-I like turning data, models, and ideas into something people can actually use.
-</font>
+- Data engineering concepts and workflows
+- Machine learning engineering and model training
 
-<br><br>
+**Web & Full-Stack Development**
 
-<font color="#f1c86b"><b>STATUS:</b></font>
-<font color="#8fc6a5"> curious · learning · building</font>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-</td>
-</tr>
-</table>
+- Database-backed applications
+- Clear, practical user interfaces
 
-<br>
+---
 
-<table align="center" width="92%" border="0" bgcolor="071a2f">
-<tr>
-<td>
+## Currently Learning
 
-<table width="100%" border="0">
-<tr>
-<td>
-<font color="#f1c86b"><b>● ● ●</b></font>
-</td>
-<td align="right">
-<font color="#d6e6f5">ABOUT_ME.EXE</font>
-</td>
-</tr>
-</table>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-<hr>
+- **Flutter** for mobile development *(Dart fundamentals complete)*
+- **ASP.NET**, as part of my university coursework
 
-<font color="#f9edcc" size="5"><b>HELLO, I'M JUMANA</b></font>
-
-<br><br>
-
-<font color="#d6e6f5">
-I am a <b>Data Science student</b> who had to study AI as part of my degree. Along the way, I trained machine learning models, worked with data, built websites, and kept expanding into software development.
-</font>
-
-<br><br>
-
-<font color="#f1c86b"><b>DATA SCIENCE STUDENT // AI LEARNER // SOFTWARE BUILDER</b></font>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table align="center" width="92%" border="0">
-<tr>
-<td valign="top" width="50%" bgcolor="f7f2df">
-
-<font color="#17385b" size="5"><b>MY STUDIES</b></font>
-
-<br><br>
-
-<font color="#17385b">
-My main area is <b>data science</b>. I studied:
-</font>
-
-<br><br>
-
-<font color="#31638d">
-▸ Python and R for data analysis<br>
-▸ Data engineering concepts and workflows<br>
-▸ Machine learning engineering<br>
-▸ AI and model training<br>
-▸ Basic programming with C++ and C#
-</font>
-
-<br><br>
-
-<font color="#d39b28">[ DATA + AI + MACHINE LEARNING ]</font>
-
-</td>
-<td valign="top" width="50%" bgcolor="e8eff7">
-
-<font color="#17385b" size="5"><b>WHAT I BUILD</b></font>
-
-<br><br>
-
-<font color="#17385b">
-I have made many front-end and full-stack websites using:
-</font>
-
-<br><br>
-
-<font color="#31638d">
-▸ HTML, CSS, and JavaScript<br>
-▸ PHP for full-stack web development<br>
-▸ MySQL and database-backed applications<br>
-▸ C# and .NET concepts<br>
-▸ Clear, practical user interfaces
-</font>
-
-<br><br>
-
-<font color="#d39b28">[ WEB + FULL-STACK DEVELOPMENT ]</font>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table align="center" width="92%" border="0" bgcolor="17385b">
-<tr>
-<td>
-
-<font color="#f1c86b" size="5"><b>CURRENTLY LOADING...</b></font>
-
-<br><br>
-
-<font color="#f9edcc">
-<b>Dart</b> is done. Now I am learning <b>Flutter</b> for mobile development.
-<br>
-I am also learning <b>ASP.NET</b> because it is part of my university curriculum.
-</font>
-
-<br><br>
-
-<font color="#d6e6f5">[ ##############------ ] 70%</font>
-
-</td>
-</tr>
-</table>
-
-<br><br>
+---
 
 <div align="center">
 
+*Open to collaboration on data science, AI, and web development projects.*
+
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=071a2f&secondaryColor=17385b&height=115&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=115&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=115&section=footer" width="100%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:17385b,100:31638d&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17385b,100:31638d&height=100&section=footer" width="100%" alt="">
 </picture>
 
 </div>
