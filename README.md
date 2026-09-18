@@ -178,55 +178,6 @@ I am also learning <b>ASP.NET</b> because it is part of my university curriculum
 
 <div align="center">
 
-<font color="#17385b" size="5"><b>GITHUB ACTIVITY</b></font>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jumthaibi&show_icons=true&hide_border=true&theme=dark&bg_color=071a2f&title_color=f1c86b&icon_color=8fc6a5&text_color=d6e6f5&include_all_commits=true&border_radius=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jumthaibi&show_icons=true&hide_border=true&theme=default&bg_color=f7f2df&title_color=17385b&icon_color=d39b28&text_color=31638d&include_all_commits=true&border_radius=8">
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jumthaibi&show_icons=true&hide_border=true&theme=default&bg_color=f7f2df&title_color=17385b&icon_color=d39b28&text_color=31638d&include_all_commits=true&border_radius=8" alt="Jumana's GitHub statistics">
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jumthaibi&layout=compact&hide_border=true&theme=dark&bg_color=071a2f&title_color=f1c86b&text_color=d6e6f5&langs_count=7&border_radius=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/? username=jumthaibi&layout=compact&hide_border=true&theme=default&bg_color=f7f2df&title_color=17385b&text_color=31638d&langs_count=7&border_radius=8">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=jumthaibi&bg_color=071a2f&color=d6e6f5&line=f1c86b&point=ffffff&area=true&hide_border=true&radius=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=jumthaibi&bg_color=f7f2df&color=31638d&line=d39b28&point=17385b&area=true&hide_border=true&radius=8">
-  <img width="90%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=jumthaibi&bg_color=f7f2df&color=31638d&line=d39b28&point=17385b&area=true&hide_border=true&radius=8" alt="Jumana's GitHub contribution activity">
-</picture>
-
-</div>
-
-<br><br>
-
-<table align="center" width="92%" border="0" bgcolor="f7f2df">
-<tr>
-<td align="center">
-
-<font color="#17385b" size="5"><b>THANKS FOR VISITING</b></font>
-
-<br><br>
-
-<font color="#31638d">learning data science · training models · building software</font>
-
-<br><br>
-
-<font color="#d39b28" size="5">✦ &nbsp; ✦ &nbsp; ✦</font>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=071a2f&secondaryColor=17385b&height=115&section=footer">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=17385b&secondaryColor=31638d&height=115&section=footer">
