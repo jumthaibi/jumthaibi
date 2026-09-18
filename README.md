@@ -58,7 +58,7 @@ My work spans machine learning, data analysis, and full-stack web development, w
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-- **Flutter** for mobile development *(Dart fundamentals complete)*
+- **Flutter & Dart** for mobile development
 - **ASP.NET**, as part of my university coursework
 
 ---
